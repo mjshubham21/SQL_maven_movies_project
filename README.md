@@ -1,7 +1,7 @@
 # SQL Project by Shubham Pawar. 
 # 🎬 Maven Movies: Insights for a DVD Rental Business
 
-![Project Banner](https://github.com/Sayali821/Mavenmovies/blob/200eb076804152c5e1ba46638a60a3a5d01c34c1/banner.jpg)
+![Project Banner](https://github.com/mjshubham21/SQL_maven_movies_project/blob/main/Code_outputs/mjshubham21SQLBanner.png)
 
 ---
 
