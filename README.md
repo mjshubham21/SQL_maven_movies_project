@@ -11,6 +11,9 @@ This project focuses on analyzing the *MAVENMOVIES* database to extract valuable
 
 ---
 
+## 🔗Project Link: ![Project Link](https://github.com/mjshubham21/SQL_maven_movies_project/blob/main/project_questions_CODE.sql)
+---
+
 ## 🔗 Connect with Me
 
 - *mjshubham21* &nbsp; &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mjshubham21/)
